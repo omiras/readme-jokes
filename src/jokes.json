@@ -797,10 +797,15 @@
 		"q": "Why did the functional programmer get thrown out of school?",
 		"a": "Because he refused to take classes"
 	},
+	"
 
 	"190": "If it weren't for C, we'd all be programming in BASI and OBOL",
 
 	"191": "Programming is like sex: One mistake and you have to support it for the rest of your life.",
 	
-	"192": "Chuck Norris writes code, that optimizes itself."
+	"192": "Chuck Norris writes code, that optimizes itself.",
+	"193": {
+		"q": What's Beatles JavaScript favorite song"
+		"a": "<code>let it='b'</code>"
+	}
 }
